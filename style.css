@@ -1,0 +1,94 @@
+body
+{
+    background-color: aqua;
+}
+.heading
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.description
+{
+    font-family: "Playfair Display", serif;
+    font-size: larger;
+}
+.image img
+{
+    width: 600px;
+    height: auto;
+    padding-left: 440px;
+    padding-right: 440px;
+    padding-top: 20px;
+}
+.box
+{
+    height: 1290px;
+    width: 1500px;
+    background-color: yellow;
+    margin-top: 50px;
+    border-style: solid;
+}
+.boxheading
+{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+.boxdescription
+{
+    background-color: black;
+    color: white;
+    display: grid;
+}
+.traindetails
+{
+    border: 2px solid red;
+    display: flex;
+}
+.train1
+{
+    border: 2px solid red;
+    height: 55.5px;
+    width: 260px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.train1name
+{
+    border: 2px solid red;
+    height: 55.5px;
+    width: 334px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 39px;
+}
+.time1
+{
+    border: 2px solid red;
+    height: 55.5px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.arr1
+{
+    border: 2px solid red;
+    height: 55.6px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.pf
+{
+    border: 2px solid red;
+    height: 55.5px;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
